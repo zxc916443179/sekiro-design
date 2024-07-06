@@ -1,0 +1,5 @@
+RowName,state1,state2,state3,state4
+attack,,2,0,
+idle,,,,
+combo,,,,
+breakall,3,3,3,3
